@@ -11,12 +11,15 @@ Initial Security()
 }
 
 
+<<<<<<< HEAD
+=======
 feature1(){
 //feature 1 added
 }
 
 
 
+>>>>>>> feature1
 securityPatch(){
 
 feature2(){
