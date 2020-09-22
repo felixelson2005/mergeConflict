@@ -10,7 +10,13 @@ Initial Security()
  //Sample Code
 }
 
+
 securityPatch(){
+
+feature2(){
+
+//added feature 2
+
 }
 
 }
